@@ -13,3 +13,6 @@ As kldjfladsjflsdkfjlksdf
 Sample website with plenty of files for demossdfasdfsdfasdfsdf
 
 ## How to Contribute
+
+## Copyright
+Git.Training
