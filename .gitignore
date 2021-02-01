@@ -1,3 +1,4 @@
 ficheroIgnorar.mpg
 *.log
-log
+log/
+*.orig
