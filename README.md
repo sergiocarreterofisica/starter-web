@@ -13,6 +13,7 @@ As kldjfladsjflsdkfjlksdf
 Sample website with plenty of files for demossdfasdfsdfasdfsdf
 
 ## How to Contribute
+Please fork this repository and then issue Pull Request for review.
 
 ## Copyright
 Git.Training
