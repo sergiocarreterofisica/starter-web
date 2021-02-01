@@ -18,4 +18,4 @@ Sample website with plenty of files for demossdfasdfsdfasdfsdf
 Please fork this repository and then issue Pull Request for review.
 
 ## Copyright
-Git.Training
+2021. Git.Training. All rights reserved.
